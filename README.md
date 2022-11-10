@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Katherine!
-- 👀 At the moment, I’m interested in mobile and web development.
-- 🌱 I’m currently learning React Native on my own, and I'm also taking courses in Internet and Web systems and operating systems.
 - 📫 You can reach me at katawang@seas.upenn.edu
